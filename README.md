@@ -1,4 +1,4 @@
-# Familienrezepte
+![Familienrezepte: Kochtopf mit Kräutern und Gemüse](resources/img/repo-vorschau.jpg)
 
 Hier sammeln wir Rezepte für unsere Familie: bewährte Lieblingsgerichte, neue Entdeckungen und alles, was wir gerne wieder kochen oder backen möchten.
 

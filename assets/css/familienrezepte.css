@@ -1,0 +1,91 @@
+/* Ergänzt das GitHub-Pages-Theme für Übersicht und Rezepte. */
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: #f6f2e9;
+  color: #292c25;
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.7;
+}
+
+.markdown-body {
+  box-sizing: border-box;
+  max-width: 820px;
+  margin: 3rem auto;
+  padding: 3rem 4rem;
+  background: #fffefa;
+  border: 1px solid #e8e1d5;
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(63, 52, 35, .07);
+  font-family: inherit;
+  font-size: 1.05rem;
+  line-height: inherit;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  color: #354a32;
+  line-height: 1.25;
+}
+
+.markdown-body h1 {
+  border-bottom: 1px solid #ddd8ca;
+  font-size: 2.2rem;
+}
+
+.markdown-body h2 {
+  margin-top: 2rem;
+  border-bottom: 1px solid #e8e1d5;
+  font-size: 1.5rem;
+}
+
+.markdown-body a {
+  color: #446a3e;
+  text-decoration: underline;
+  text-decoration-color: #b3c4a9;
+  text-underline-offset: .18em;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus-visible {
+  color: #263f24;
+  text-decoration-color: currentColor;
+}
+
+.markdown-body a:focus-visible {
+  outline: 2px solid #446a3e;
+  outline-offset: 3px;
+}
+
+.markdown-body img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.markdown-body li {
+  margin: .4rem 0;
+}
+
+.markdown-body .footer {
+  color: #706e63;
+  font-family: sans-serif;
+  font-size: .8rem;
+}
+
+@media (max-width: 600px) {
+  .markdown-body {
+    margin: 0;
+    padding: 1.5rem;
+    border: 0;
+    border-radius: 0;
+  }
+
+  .markdown-body h1 {
+    font-size: 1.8rem;
+  }
+}

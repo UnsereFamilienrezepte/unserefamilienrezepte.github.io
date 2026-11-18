@@ -6,7 +6,7 @@
 body {
   background: #f6f2e9;
   color: #292c25;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Arial, Helvetica, sans-serif;
   line-height: 1.7;
 }
 
@@ -20,7 +20,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 8px 30px rgba(63, 52, 35, .07);
   font-family: inherit;
-  font-size: 1.05rem;
+  font-size: 1.125rem;
   line-height: inherit;
 }
 

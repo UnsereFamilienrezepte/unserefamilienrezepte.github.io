@@ -1,25 +1,25 @@
 # Pizzasuppe mit Hackfleisch und Gemüse
 
-- **Portionen:** 12
+- **Portionen:** 4
 - **Zubereitungszeit:** 40 Minuten
 - **Schwierigkeit:** Ganz einfach
 
 ## Zutaten
 
-- 2 Dosen Gemüsemais (à 425 ml)
-- 2 Zwiebeln
-- 4 Knoblauchzehen
-- 600 g Champignons
-- 4 EL Öl
-- 1.500 g gemischtes Hackfleisch
-- 2 EL getrockneter Majoran
-- 4 TL Oregano
-- 1–2 Lorbeerblätter
+- ⅔ Dose Gemüsemais (Dose à 425 ml)
+- ⅔ Zwiebel
+- 1⅓ Knoblauchzehen
+- 200 g Champignons
+- 1⅓ EL Öl
+- 500 g gemischtes Hackfleisch
+- 2 TL getrockneter Majoran
+- 1⅓ TL Oregano
+- ⅓–⅔ Lorbeerblatt
 - Salz, Pfeffer, Zucker und Paprika
-- 2 EL Tomatenmark
-- 4 Dosen Kirschtomaten (à 425 ml), alternativ gehackte Tomaten
-- 800 ml Gemüsebrühe
-- 200 g Sahnekäse (Schmelzkäsezubereitung)
+- 2 TL Tomatenmark
+- 1⅓ Dosen Kirschtomaten (Dosen à 425 ml), alternativ gehackte Tomaten
+- 267 ml Gemüsebrühe
+- 67 g Sahnekäse (Schmelzkäsezubereitung)
 
 ## Zubereitung
 

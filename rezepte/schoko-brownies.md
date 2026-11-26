@@ -1,5 +1,7 @@
 # Schoko-Brownies
 
+🥚 Vegetarisch
+
 - **Menge:** 1 kleines Blech oder eine Auflaufform (30 × 20 cm); etwa 12 Brownies
 - **Zubereitungszeit:** 15 Minuten
 - **Backzeit:** 20 Minuten

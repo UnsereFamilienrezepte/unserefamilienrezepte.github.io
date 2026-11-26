@@ -1,5 +1,7 @@
 # Einfaches Chili sin Carne
 
+🌱 Vegan ohne Crème fraîche oder mit pflanzlicher Alternative; optionale Schokolade vegan
+
 Würzig, sättigend und unkompliziert – für etwa **4 Portionen** in rund **35 Minuten**.
 
 ## Zutaten

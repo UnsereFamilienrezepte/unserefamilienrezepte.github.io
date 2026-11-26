@@ -1,5 +1,7 @@
 # 🥑 Einfache Guacamole
 
+🌱 Vegan
+
 **Zubereitungszeit:** 10 Minuten
 
 **Portionen:** 2–3

@@ -1,5 +1,7 @@
 # Mediterraner Auberginenauflauf mit Mozzarella
 
+🥚 Vegetarisch mit Hartkäse ohne tierisches Lab
+
 Ein einfacher, saftiger vegetarischer Auberginenauflauf mit Tomaten, Mozzarella und einer goldbraunen Käsekruste – inspiriert von der italienischen *Parmigiana di Melanzane*.
 
 - **Portionen:** 3–4

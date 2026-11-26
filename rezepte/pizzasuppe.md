@@ -1,5 +1,7 @@
 # Pizzasuppe mit Hackfleisch und Gemüse
 
+🍽️ Sonstige
+
 - **Portionen:** 4
 - **Zubereitungszeit:** 40 Minuten
 - **Schwierigkeit:** Ganz einfach

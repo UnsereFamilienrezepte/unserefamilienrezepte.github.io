@@ -1,5 +1,7 @@
 # Käse-Lauch-Suppe mit Hack
 
+🍽️ Sonstige · 🥚 vegetarisch mit veganem Hack · 🌱 vegan mit pflanzlichen Alternativen
+
 Eine cremige, herzhafte Suppe, die sowohl mit veganem als auch mit gemischtem Hackfleisch schmeckt.
 
 **Für 4 Portionen · ca. 35 Minuten**

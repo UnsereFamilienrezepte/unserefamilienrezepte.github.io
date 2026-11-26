@@ -1,5 +1,7 @@
 # Apfelkuchen vom Blech mit Streuseln
 
+🥚 Vegetarisch
+
 - **Menge:** 1 Blech
 - **Zubereitungszeit:** 25 Minuten
 - **Gesamtzeit:** 55 Minuten

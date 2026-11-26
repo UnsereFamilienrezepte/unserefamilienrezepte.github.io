@@ -12,6 +12,7 @@ Die Hinweise bei den Rezepten zeigen, wenn die Kennzeichnung von bestimmten Zuta
 
 ## Hauptgerichte
 
+- [Asiatisch gebratene Nudeln wie vom Imbiss](rezepte/asiatisch-gebratene-nudeln.md) 🌱
 - [Mediterraner Auberginenauflauf mit Mozzarella](rezepte/mediterraner-auberginenauflauf.md) 🥚
 - [Einfaches Chili sin Carne](rezepte/chili-sin-carne.md) 🥚
 

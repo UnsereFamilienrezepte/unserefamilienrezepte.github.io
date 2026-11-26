@@ -25,11 +25,11 @@ Würzig, sättigend und unkompliziert – für etwa **4 Portionen** in rund **35
 
 ## Zubereitung
 
-1. **Vorbereiten:** Zwiebel und Knoblauch fein würfeln, Paprika in kleine Stücke schneiden. Kidneybohnen und Mais abgießen und abspülen.
-2. **Anbraten:** Öl in einem großen Topf erhitzen. Zwiebel und Paprika etwa 4 Minuten anbraten, Knoblauch kurz mitbraten.
-3. **Würzen:** Tomatenmark, Kreuzkümmel, Paprikapulver und Chili einrühren und etwa 1 Minute mitrösten.
-4. **Köcheln:** Gehackte Tomaten, rote Linsen und Gemüsebrühe dazugeben. Aufkochen und zugedeckt bei mittlerer bis niedriger Hitze etwa **15 Minuten** köcheln lassen. Gelegentlich umrühren.
+1. **Vorbereiten:** 1 Zwiebel und 2 Knoblauchzehen fein würfeln, 1 rote Paprika in kleine Stücke schneiden. 1 Dose Kidneybohnen (ca. 250 g Abtropfgewicht) und 1 Dose Mais (ca. 140–285 g Abtropfgewicht) abgießen und abspülen.
+2. **Anbraten:** 2 EL Olivenöl in einem großen Topf erhitzen. Zwiebel und Paprika etwa 4 Minuten anbraten, Knoblauch kurz mitbraten.
+3. **Würzen:** 2 EL Tomatenmark, 1 TL Kreuzkümmel, 2 TL edelsüßes Paprikapulver und ½–1 TL Chilipulver oder Chiliflocken nach Geschmack einrühren und etwa 1 Minute mitrösten.
+4. **Köcheln:** 1 Dose gehackte Tomaten (400 g), 150 g rote Linsen und 400 ml Gemüsebrühe dazugeben. Aufkochen und zugedeckt bei mittlerer bis niedriger Hitze etwa **15 Minuten** köcheln lassen. Gelegentlich umrühren.
 5. **Fertigstellen:** Kidneybohnen und Mais unterrühren und weitere **5 Minuten** köcheln lassen, bis die Linsen weich sind. Falls das Chili zu dick wird, etwas Wasser nachgießen.
-6. **Abschmecken:** Nach Wunsch Kakao oder Schokolade einrühren. Mit Salz, Pfeffer und gegebenenfalls etwas mehr Chili abschmecken.
+6. **Abschmecken:** Nach Wunsch 1 TL Backkakao oder ein kleines Stückchen Zartbitterschokolade einrühren. Mit Salz, Pfeffer und gegebenenfalls etwas mehr Chili abschmecken.
 
 Mit einem Klecks Crème fraîche und frischem Brot oder Reis servieren. Wenn Kinder mitessen, kannst du das Chili mild kochen und am Tisch nachschärfen.

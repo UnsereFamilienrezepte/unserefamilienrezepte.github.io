@@ -25,7 +25,7 @@
 
 ## Zubereitung
 
-1. **Vorbereiten:** Mais in einem Sieb abtropfen lassen. Zwiebel schälen und fein würfeln, Knoblauch schälen und fein hacken. Champignons putzen, bei Bedarf waschen und halbieren.
-2. **Anbraten:** Öl in einem Bräter erhitzen, Hackfleisch grob hineinbröseln und unter Wenden kräftig anbraten. Zwiebel, Knoblauch, Champignons, Majoran, Oregano und Lorbeer zugeben und kurz mitbraten.
-3. **Köcheln:** Mit Salz, Pfeffer, Zucker und Paprika würzen. Tomatenmark kurz anschwitzen, Tomaten und Brühe zugeben. Sahnekäse einrühren, aufkochen und etwa **5 Minuten** köcheln lassen.
+1. **Vorbereiten:** 1 Dose Gemüsemais (425 ml; ca. 285 g Abtropfgewicht) in einem Sieb abtropfen lassen. 1 Zwiebel schälen und fein würfeln, 2 Knoblauchzehen schälen und fein hacken. 200 g Champignons putzen, bei Bedarf waschen und halbieren.
+2. **Anbraten:** 2 EL Öl in einem Bräter erhitzen, 500 g gemischtes Hackfleisch grob hineinbröseln und unter Wenden kräftig anbraten. Zwiebel, Knoblauch, Champignons, 2 TL getrockneten Majoran, 1½ TL Oregano und 1 Lorbeerblatt zugeben und kurz mitbraten.
+3. **Köcheln:** Mit Salz, Pfeffer, Zucker und Paprika würzen. 2 TL Tomatenmark kurz anschwitzen, 2 Dosen Kirschtomaten (je ca. 400 g) oder gehackte Tomaten und 300 ml Gemüsebrühe zugeben. 100 g Sahnekäse einrühren, aufkochen und etwa **5 Minuten** köcheln lassen.
 4. **Abschmecken:** Mais zugeben und nochmals kurz erhitzen. Lorbeerblatt entfernen und mit Salz und Pfeffer abschmecken.

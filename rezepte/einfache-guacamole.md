@@ -20,13 +20,13 @@
 
 ## Zubereitung
 
-1. **Avocados vorbereiten:** Avocados halbieren, Kern entfernen und das Fruchtfleisch mit einem Löffel herauslösen.
+1. **Avocados vorbereiten:** 2 reife Avocados halbieren, Kern entfernen und das Fruchtfleisch mit einem Löffel herauslösen.
 
 2. **Zerdrücken:** Das Avocadofruchtfleisch in einer Schüssel mit einer Gabel zerdrücken. Die Masse darf ruhig etwas stückig bleiben.
 
-3. **Gemüse schneiden:** Tomate und Zwiebel fein würfeln. Knoblauch schälen und pressen oder fein hacken.
+3. **Gemüse schneiden:** 1 kleine Tomate und ½ kleine rote Zwiebel fein würfeln. 1 Knoblauchzehe schälen und pressen oder fein hacken.
 
-4. **Vermischen:** Tomate, Zwiebel und Knoblauch zur Avocado geben. Den Limettensaft hinzufügen und alles gut vermengen.
+4. **Vermischen:** Tomate, Zwiebel und Knoblauch zur Avocado geben. Den Saft von ½ Limette hinzufügen und alles gut vermengen.
 
 5. **Abschmecken:** Mit Salz und Pfeffer würzen. Nach Belieben fein gehackten Koriander und etwas Chili hinzufügen.
 

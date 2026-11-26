@@ -28,15 +28,15 @@ Ein einfacher, saftiger vegetarischer Auberginenauflauf mit Tomaten, Mozzarella 
 
 ### 1. Auberginen vorbereiten
 
-Backofen auf **220 °C Ober-/Unterhitze** vorheizen. Auberginen längs in etwa 1 cm dicke Scheiben schneiden. Mit Olivenöl bestreichen, leicht salzen und auf einem Backblech etwa **20 Minuten** rösten, bis sie leicht gebräunt sind.
+Backofen auf **220 °C Ober-/Unterhitze** vorheizen. 2 große Auberginen längs in etwa 1 cm dicke Scheiben schneiden. Mit einem Teil von insgesamt 3–4 EL Olivenöl bestreichen, leicht salzen und auf einem Backblech etwa **20 Minuten** rösten, bis sie leicht gebräunt sind.
 
 ### 2. Tomatensoße kochen
 
-Zwiebel fein würfeln und mit etwas Olivenöl glasig anbraten. Gehackten Knoblauch kurz mitbraten. Tomaten, Oregano, Zucker, Salz und Pfeffer hinzugeben. **10–15 Minuten** köcheln lassen, damit die Soße kräftig und etwas dickflüssig wird.
+1 große Zwiebel fein würfeln und mit etwas von den 3–4 EL Olivenöl glasig anbraten. 3 gehackte Knoblauchzehen kurz mitbraten. 800 g gehackte Tomaten, 1 TL getrockneten Oregano, 1 TL Zucker, Salz und Pfeffer hinzugeben. **10–15 Minuten** köcheln lassen, damit die Soße kräftig und etwas dickflüssig wird.
 
 ### 3. Auflauf schichten
 
-In eine Auflaufform etwas Tomatensoße geben. Darauf Auberginenscheiben, gezupften Mozzarella, etwas Hartkäse und Basilikum verteilen. Die Schichten wiederholen. Mit Tomatensoße, Mozzarella und Hartkäse abschließen.
+In eine Auflaufform etwas Tomatensoße geben. Darauf Auberginenscheiben, gezupften Mozzarella (insgesamt 2 Kugeln à 125 g), etwas Hartkäse (insgesamt 60 g Parmesan oder vegetarischer Hartkäse) und Basilikum (insgesamt 1 Handvoll) verteilen. Die Schichten wiederholen. Mit Tomatensoße, Mozzarella und Hartkäse abschließen.
 
 ### 4. Überbacken
 

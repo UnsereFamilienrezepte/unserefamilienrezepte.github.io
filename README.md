@@ -25,6 +25,10 @@ Die Hinweise bei den Rezepten zeigen, wenn die Kennzeichnung von bestimmten Zuta
 
 - [Einfache Guacamole](rezepte/einfache-guacamole.md) 🌱
 
+## Süßes und Knabbereien
+
+- [Gebrannte Nüsse aus der Pfanne](rezepte/gebrannte-nuesse.md) 🌱
+
 ## Kuchen und Gebäck
 
 - [Apfelkuchen vom Blech mit Streuseln](rezepte/apfelkuchen-vom-blech.md) 🥚

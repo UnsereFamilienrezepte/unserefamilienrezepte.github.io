@@ -11,7 +11,7 @@ Ohne Ei, Weißkohl und spezielle asiatische Zutaten außer Sojasauce.
 
 ### Nudeln und Gemüse
 
-- 500 g Mie-Nudeln oder Spaghetti ohne Ei
+- 250 g Mie-Nudeln oder Spaghetti ohne Ei
 - 4 Möhren
 - 2 Stangen Lauch
 - 2 Zwiebeln
@@ -33,12 +33,12 @@ Ohne Ei, Weißkohl und spezielle asiatische Zutaten außer Sojasauce.
 ## Zubereitung
 
 1. **Sesam rösten:** 4 EL Sesamkörner in einer trockenen Pfanne bei mittlerer Hitze goldbraun rösten. Herausnehmen und die Hälfte leicht zerstoßen.
-2. **Nudeln kochen:** 500 g Nudeln bissfest kochen, kalt abschrecken und gut abtropfen lassen.
+2. **Nudeln kochen:** 250 g Nudeln bissfest kochen, kalt abschrecken und gut abtropfen lassen.
 3. **Sauce anrühren:** 8 EL Sojasauce, 6 EL Wasser, 2 TL Zucker, 2 TL Essig, 1 TL Gemüsebrühepulver, 1 TL Tomatenmark und 1 TL schwarzen Pfeffer vermischen. Nach Belieben etwas Chili oder Ingwer und die 2 EL zerstoßenen Sesam unterrühren.
 4. **Gemüse schneiden:** 4 Möhren in dünne Stifte, 2 Zwiebeln in feine Streifen und 2 Stangen Lauch in dünne Halbringe schneiden. 4 Knoblauchzehen fein hacken.
-5. **Gemüse braten:** 6 EL Öl in einer großen Pfanne stark erhitzen. Möhren und Zwiebeln 3 Minuten kräftig anbraten. Lauch hinzugeben und weitere 2 Minuten braten. Zum Schluss den Knoblauch hinzufügen.
-6. **Nudeln braten:** Die Nudeln hinzugeben und 3–4 Minuten bei hoher Hitze anbraten. Nicht ständig umrühren, damit Röstaromen entstehen.
-7. **Würzen:** Die Sauce hinzugeben, alles gut vermischen und weitere 1–2 Minuten kräftig braten.
+5. **Gemüse braten:** Von den 6 EL Öl 1 TL für die Nudeln beiseitestellen und das übrige Öl in einer großen Pfanne stark erhitzen. Möhren und Zwiebeln 3 Minuten kräftig anbraten. Lauch hinzugeben und weitere 2 Minuten braten. Zum Schluss den Knoblauch hinzufügen.
+6. **Nudeln braten:** Das Gemüse herausnehmen und beiseitestellen. Die gut abgetropften Nudeln mit dem beiseitegestellten 1 TL Öl vermengen und portionsweise bei hoher Hitze jeweils 3–4 Minuten braten. Regelmäßig wenden, damit sie nicht festkleben, und die fertigen Portionen beiseitestellen. Falls sie ansetzen, einen kleinen Schluck Wasser zugeben und vorsichtig vom Pfannenboden lösen, statt weiteres Öl nachzugießen.
+7. **Würzen:** Gemüse, Nudeln und Sauce in einem großen Topf vermischen und 1–2 Minuten erhitzen.
 8. **Servieren:** Die restlichen 2 EL gerösteten Sesam über die Nudeln streuen.
 
 ## Tipp
